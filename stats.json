@@ -6,7 +6,7 @@
       "TYPE": 0,
       "ATTACK": 3,
       "DEFENSE": 3,
-      "SPECIAL": "AB"
+      "SPECIAL": "Confusion"
     },
     {
       "NAME": "Soldier",
@@ -14,7 +14,7 @@
       "TYPE": 1,
       "ATTACK": 5,
       "DEFENSE": 4,
-      "SPECIAL": "BC"
+      "SPECIAL": "Bezerker"
     },
     {
       "NAME": "Ranger",
@@ -22,7 +22,7 @@
       "TYPE": 2,
       "ATTACK": 4,
       "DEFENSE": 2,
-      "SPECIAL": "CD"
+      "SPECIAL": "Bullseye"
     },
     {
       "NAME": "Healer",
@@ -30,7 +30,7 @@
       "TYPE": 3,
       "ATTACK": 2,
       "DEFENSE": 5,
-      "SPECIAL": "DE"
+      "SPECIAL": "Giving Tree"
     },
     {
       "NAME": "Crafter",
@@ -38,7 +38,7 @@
       "TYPE": 4,
       "ATTACK": 2,
       "DEFENSE": 3,
-      "SPECIAL": "EF"
+      "SPECIAL": "Copy Cat"
     },
     {
       "NAME": "Elf",
@@ -46,7 +46,7 @@
       "TYPE": 5,
       "ATTACK": 4,
       "DEFENSE": 3,
-      "SPECIAL": "FG"
+      "SPECIAL": "Enchanting"
     },
     {
       "NAME": "Geek",
@@ -54,7 +54,7 @@
       "TYPE": 6,
       "ATTACK": 1,
       "DEFENSE": 5,
-      "SPECIAL": "GH"
+      "SPECIAL": "Merge Conflict"
     },
     {
       "NAME": "Bard",
@@ -62,7 +62,15 @@
       "TYPE": 7,
       "ATTACK": 3,
       "DEFENSE": 3,
-      "SPECIAL": "HI"
+      "SPECIAL": "Stairway"
+    },
+    {
+      "NAME": "Cook",
+      "COLOR": "Orange",
+      "TYPE": 8,
+      "ATTACK": 2,
+      "DEFENSE": 4,
+      "SPECIAL": "Grilled Cheese!"
     }
   ]
 }
