@@ -1,0 +1,85 @@
+{
+  "enemies": [
+    {
+      "NAME": "Warlock",
+      "COLOR": "Purple",
+      "TYPE": "F9",
+      "ATTACK": 3,
+      "DEFENSE": 3,
+      "SPECIAL": "Confusion",
+      "WEAK": "Light"
+    },
+    {
+      "NAME": "Orc",
+      "COLOR": "Brown",
+      "TYPE": "F8",
+      "ATTACK": 5,
+      "DEFENSE": 4,
+      "SPECIAL": "Rampage",
+      "WEAK": "Leaf"
+    },
+    {
+      "NAME": "Lurker",
+      "COLOR": "Olive",
+      "TYPE": "F7",
+      "ATTACK": 4,
+      "DEFENSE": 2,
+      "SPECIAL": "Evil Eye",
+      "WEAK": "Flash"
+    },
+    {
+      "NAME": "Witch",
+      "COLOR": "Yellow",
+      "TYPE": "F6",
+      "ATTACK": 2,
+      "DEFENSE": 5,
+      "SPECIAL": "Cauldron",
+      "WEAK": "Water"
+    },
+    {
+      "NAME": "Businessman",
+      "COLOR": "Azure",
+      "TYPE": "F5",
+      "ATTACK": 2,
+      "DEFENSE": 3,
+      "SPECIAL": "Lawyer Up",
+      "WEAK": "Honesty"
+    },
+    {
+      "NAME": "Dark Imp",
+      "COLOR": "Teal",
+      "TYPE": "F4",
+      "ATTACK": 4,
+      "DEFENSE": 3,
+      "SPECIAL": "Dark Water",
+      "WEAK": "Laughter"
+    },
+    {
+      "NAME": "Nerd",
+      "COLOR": "Puce",
+      "TYPE": "F3",
+      "ATTACK": 1,
+      "DEFENSE": 5,
+      "SPECIAL": "Expert System",
+      "WEAK": "Zen Koan"
+    },
+    {
+      "NAME": "Metalhead",
+      "COLOR": "Black",
+      "TYPE": "F2",
+      "ATTACK": 3,
+      "DEFENSE": 3,
+      "SPECIAL": "Drop D",
+      "WEAK": "Muzak"
+    },
+    {
+      "NAME": "Ghost",
+      "COLOR": "Grey",
+      "TYPE": "F1",
+      "ATTACK": 2,
+      "DEFENSE": 4,
+      "SPECIAL": "Boo",
+      "WEAK": "Psychic"
+    }
+  ]
+}
