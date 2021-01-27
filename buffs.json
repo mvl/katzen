@@ -1,0 +1,32 @@
+{
+  "buffs": [
+    {
+      "NAME": "Perky Sauce",
+      "COLOR": "Orange",
+      "TYPE": "HEALTH",
+      "DURATION": "null",
+      "VALUE": 10
+    },
+    {
+      "NAME": "Mana Refresher",
+      "COLOR": "Purple",
+      "TYPE": "MAGIC",
+      "DURATION": "null",
+      "VALUE": 50
+    },
+    {
+      "NAME": "Rust Bull",
+      "COLOR": "Red",
+      "TYPE": "SHEILD",
+      "DURATION": 360,
+      "VALUE": 15
+    },
+    {
+      "NAME": "Green Flash",
+      "COLOR": "Green",
+      "TYPE": "POWER",
+      "DURATION": 360,
+      "VALUE": 15
+    }
+  ]
+}
