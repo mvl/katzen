@@ -27,6 +27,13 @@
       "TYPE": "POWER",
       "DURATION": 360,
       "VALUE": 15
+    },
+    {
+      "NAME": "Light Bulb",
+      "COLOR": "White",
+      "TYPE": "EFFECT",
+      "DURATION": 360,
+      "VALUE": 100
     }
   ]
 }
