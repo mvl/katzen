@@ -34,6 +34,13 @@
       "TYPE": "EFFECT",
       "DURATION": 360,
       "VALUE": 100
+    },
+    {
+      "NAME": "Night Rider",
+      "COLOR": "Black",
+      "TYPE": "EFFECT",
+      "DURATION": 1440,
+      "VALUE": 8000
     }
   ]
 }
